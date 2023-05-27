@@ -2,11 +2,12 @@
 # AI-CUP-2023多模態病理嗓音分類
 ## 作品說明
 * [前言](#前言)
+* [voice_analysis](#voice_analysis)
 * [資料處理](#資料處理)
 * [檔案下載說明](#檔案下載說明)
 * [訓練流程](#訓練流程)
 * [預測](#預測)
-* [voice_analysis](#voice_analysis)
+
 
 前言
 ------
