@@ -3,6 +3,7 @@
 ## 作品說明
 * [前言](#前言)
 * [資料處理](#資料處理)
+* [joblib說明](#joblib說明)
 * [訓練流程](#訓練流程)
 * [預測](#預測)
 
@@ -33,6 +34,10 @@ Oversampling:利用excel的篩選功能將聲帶腫瘤、聲帶正常的資料�
 如果您不能運行請確認是否有以下格式錯誤
 1. 標籤是否改成大寫
 2. 是否有空白值
+
+joblib說明
+------
+請於https://drive.google.com/file/d/10GTqZtS9T3Yh2ZJwnW9aji5gG8ca7rCt/view 下在.joblib檔案
 
 訓練流程
 -------
