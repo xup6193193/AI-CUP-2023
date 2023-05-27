@@ -6,6 +6,7 @@
 * [檔案下載說明](#檔案下載說明)
 * [訓練流程](#訓練流程)
 * [預測](#預測)
+* [voice_analysis](#voice_analysis)
 
 前言
 ------
@@ -19,6 +20,16 @@
 7. dill  0.3.6
 8.  librosa 0.10.0.post2 
 9.  tqdm  4.64. 
+
+voice_analysis
+------
+打開 `voice_model.ipynb` 
+
+於https://drive.google.com/drive/u/0/folders/1cZnhKL_vjyVZlmCnDZsxaYaUVHzrAkWR 下載重新編輯過的聲音，並將它們與`voice_model.ipynb` 放在同一個資料夾。
+
+查看`tmp001.xls`的編號操作
+
+
 
 資料處理
 ------
