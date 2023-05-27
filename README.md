@@ -38,6 +38,7 @@ Oversampling:利用excel的篩選功能將聲帶腫瘤、聲帶正常的資料�
 檔案下載說明
 ------
 部分內容較大，無法上傳github
+
 請於https://drive.google.com/file/d/10GTqZtS9T3Yh2ZJwnW9aji5gG8ca7rCt/view 下載`model.ipynb` 所需要的.joblib檔案
 
 請於https://drive.google.com/drive/u/0/folders/1cZnhKL_vjyVZlmCnDZsxaYaUVHzrAkWR 下載`voice_analysis`所需要的檔案
