@@ -30,6 +30,26 @@ voice_analysis
 
 可以清楚的看到多種頻譜圖，並可以藉此找出重要的參數
 
+    number=1925
+    while number<=1968:
+        file_name=str(number)+".wav"
+        rate, data = wavfile.read(file_name)
+        print(f"number of channels = {data}")
+        length = data.shape[0] / rate
+        print(f"length = {length}s")
+
+於`number= ` 的地方輸入欲取用聲音的編號範圍
+
+嗓音誤用範圍1001~1536
+
+聲帶閉合不全1537~1756
+
+聲帶麻痺1757~1924
+
+聲帶腫瘤1924~1968
+
+聲帶正常1968~2000
+
 隨機分類.ipynb
 -------
 直接開啟 `隨機分類.ipynb` 並視需求下載套件
