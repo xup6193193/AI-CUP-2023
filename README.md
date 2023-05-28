@@ -30,7 +30,7 @@ voice_analysis
 
 可以清楚的看到多種頻譜圖，並可以藉此找出重要的參數
 
-    number=1925
+    number=1924
     while number<=1968:
         file_name=str(number)+".wav"
         rate, data = wavfile.read(file_name)
